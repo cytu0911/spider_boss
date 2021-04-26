@@ -1,5 +1,5 @@
 # spider_boss
-模拟浏览器操作来爬取boss直聘
+超简单实用的爬虫 模拟浏览器操作来爬取boss直聘
 
 环境：
    python3.7  
